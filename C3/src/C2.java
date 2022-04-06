@@ -19,7 +19,8 @@ public class C2 {
 		double price = 15.8;
 		String fullName= "Mohammad Mateen";
 		
-		System.out.print("From Mr.Wilson %n Address: Acer Computer 314" );
+		System.out.printf("From Mr.Wilson %nAddress: Acer Computer 314%nDate: November 2, 2020%n%n%nTo: Mohammad Mateen"
+				+ "%n%n%nMessage: Help! I'm stuck in a computer!" );
 
 	}
 
